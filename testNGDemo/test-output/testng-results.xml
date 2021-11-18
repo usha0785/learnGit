@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12203" started-at="2021-11-17T18:48:57Z" finished-at="2021-11-17T18:49:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12203" started-at="2021-11-17T18:48:57Z" finished-at="2021-11-17T18:49:10Z">
+      <class name="firstTestNgpkg.FirstTestNgFile">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:firstTestNgpkg.FirstTestNgFile@6fd02e5]" name="setUp" is-config="true" duration-ms="9684" started-at="2021-11-17T13:48:57Z" finished-at="2021-11-17T13:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:firstTestNgpkg.FirstTestNgFile@6fd02e5]" name="test2" duration-ms="12" started-at="2021-11-17T13:49:07Z" finished-at="2021-11-17T13:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:firstTestNgpkg.FirstTestNgFile@6fd02e5]" name="verifyHomePageTitle" duration-ms="1840" started-at="2021-11-17T13:49:07Z" finished-at="2021-11-17T13:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:firstTestNgpkg.FirstTestNgFile@6fd02e5]" name="terminateBrowser" is-config="true" duration-ms="589" started-at="2021-11-17T13:49:09Z" finished-at="2021-11-17T13:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- firstTestNgpkg.FirstTestNgFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
